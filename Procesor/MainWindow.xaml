@@ -1,0 +1,54 @@
+﻿<Window x:Class="Procesor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Procesor"
+        mc:Ignorable="d"
+        Title="Procesor" Height="450" Width="800">
+    <Grid Background="#FFDEC6C6">
+        <Label Content="AH" HorizontalAlignment="Left" Margin="6,226,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="AL" HorizontalAlignment="Left" Margin="8,248,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="BH" HorizontalAlignment="Left" Margin="7,271,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="BL" HorizontalAlignment="Left" Margin="9,294,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="CH" HorizontalAlignment="Left" Margin="7,317,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="CL" HorizontalAlignment="Left" Margin="10,338,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.533,0.3"/>
+        <Label Content="DH" HorizontalAlignment="Left" Margin="6,363,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16"/>
+        <Label Content="DL" HorizontalAlignment="Left" Margin="8,386,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.564,10.843"/>
+        <TextBox x:Name="tbAH" HorizontalAlignment="Left" Height="18" Margin="47,233,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbAL" HorizontalAlignment="Left" Height="18" Margin="47,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbBH" HorizontalAlignment="Left" Height="18" Margin="47,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbBL" HorizontalAlignment="Left" Height="18" Margin="47,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbCH" HorizontalAlignment="Left" Height="18" Margin="47,324,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbCL" HorizontalAlignment="Left" Height="18" Margin="47,347,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbDH" HorizontalAlignment="Left" Height="18" Margin="47,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="tbDL" HorizontalAlignment="Left" Height="18" Margin="47,393,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <Button x:Name="btnNOT" Content="NOT" HorizontalAlignment="Left" Margin="265,226,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnNOT_Click"/>
+        <Button x:Name="btnINC" Content="INC" HorizontalAlignment="Left" Margin="330,226,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnINC_Click"/>
+        <Button x:Name="btnDEC" Content="DEC" HorizontalAlignment="Left" Margin="395,226,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnDEC_Click"/>
+        <Button x:Name="btnMOV" Content="MOV" HorizontalAlignment="Left" Margin="265,274,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnMOV_Click"/>
+        <Button x:Name="btnADD" Content="ADD" HorizontalAlignment="Left" Margin="330,274,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnADD_Click"/>
+        <Button x:Name="btnSUB" Content="SUB" HorizontalAlignment="Left" Margin="395,274,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnSUB_Click"/>
+        <Button x:Name="btnAND" Content="AND" HorizontalAlignment="Left" Margin="265,322,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnAND_Click"/>
+        <Button x:Name="btnOR" Content="OR" HorizontalAlignment="Left" Margin="330,322,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnOR_Click"/>
+        <Button x:Name="btnXOR" Content="XOR" HorizontalAlignment="Left" Margin="395,322,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="56" BorderBrush="#FFF70E0E" Click="btnXOR_Click"/>
+        <Button x:Name="btnXCHG" Content="XCHG" HorizontalAlignment="Left" Margin="324,370,0,0" VerticalAlignment="Top" Background="#FFCEE068" FontWeight="Bold" FontSize="22" Height="43" Width="68" BorderBrush="#FFF70E0E" Click="btnXCHG_Click"/>
+        <CheckBox x:Name="cbAH" Content="" HorizontalAlignment="Left" Margin="220,234,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbAL" Content="" HorizontalAlignment="Left" Margin="220,256,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbBH" Content="" HorizontalAlignment="Left" Margin="220,279,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbBL" Content="" HorizontalAlignment="Left" Margin="220,303,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbCH" Content="" HorizontalAlignment="Left" Margin="220,325,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbCL" Content="" HorizontalAlignment="Left" Margin="220,348,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbDH" Content="" HorizontalAlignment="Left" Margin="220,371,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <CheckBox x:Name="cbDL" Content="" HorizontalAlignment="Left" Margin="220,394,0,0" VerticalAlignment="Top" Width="16" Height="16"/>
+        <Rectangle HorizontalAlignment="Center" Height="94" Margin="0,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="510"/>
+        <Label x:Name="lbLeftNumber" Content="" HorizontalAlignment="Left" Margin="168,40,0,0" VerticalAlignment="Top" Height="34" Width="104" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="lbOperation" Content="" HorizontalAlignment="Left" Margin="288,40,0,0" VerticalAlignment="Top" Height="34" Width="72" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="lbRightNumber" Content="" HorizontalAlignment="Left" Margin="380,40,0,0" VerticalAlignment="Top" Height="34" Width="106" FontSize="20" FontWeight="Bold"/>
+        <Label Content="=" HorizontalAlignment="Left" Margin="491,40,0,0" VerticalAlignment="Top" Height="34" Width="72" FontSize="20" FontWeight="Bold"/>
+        <Label x:Name="lbResult" Content="" HorizontalAlignment="Left" Margin="520,40,0,0" VerticalAlignment="Top" Height="34" Width="106" FontSize="20" FontWeight="Bold"/>
+        <TextBlock x:Name="tbMemory" Margin="16,120,22,224" TextWrapping="Wrap" FontWeight="Bold" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+         ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True" />
+
+    </Grid>
+</Window>

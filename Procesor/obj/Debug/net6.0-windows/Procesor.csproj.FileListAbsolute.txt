@@ -1,0 +1,42 @@
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.exe
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.deps.json
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.runtimeconfig.json
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.dll
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.pdb
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.csproj.AssemblyReference.cache
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor_MarkupCompile.cache
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor_MarkupCompile.lref
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.g.resources
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.AssemblyInfoInputs.cache
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.AssemblyInfo.cs
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.csproj.CoreCompileInputs.cache
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.dll
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\refint\Procesor.dll
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.pdb
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.genruntimeconfig.cache
+C:\Users\Michał Sroka\Desktop\Procesor\Procesor\obj\Debug\net6.0-windows\ref\Procesor.dll
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.exe
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.deps.json
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.runtimeconfig.json
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.dll
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\bin\Debug\net6.0-windows\Procesor.pdb
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.csproj.AssemblyReference.cache
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor_MarkupCompile.cache
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor_MarkupCompile.lref
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.g.resources
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.AssemblyInfoInputs.cache
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.AssemblyInfo.cs
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.csproj.CoreCompileInputs.cache
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.dll
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\refint\Procesor.dll
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.pdb
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\Procesor.genruntimeconfig.cache
+C:\Users\Michał Sroka\Desktop\zadania studia\programowanie\Procesor\Procesor\obj\Debug\net6.0-windows\ref\Procesor.dll
